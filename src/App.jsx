@@ -8,7 +8,6 @@ import CarList from './components/CarList';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Navbar from './components/Navbar';
 import 'aos/dist/aos.css';
 import './App.css'
 
