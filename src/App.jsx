@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react'
 import Navbar from './components/Navbar'
-import Hero from './components/Hero/Hero';
+import Hero from './components/Hero';
 import Aos from 'aos';
-import About from './components/About/About';
-import Services from './components/Services/Services';
-import CarList from './components/CarList/CarList';
-import Testimonials from './components/Testimonials/Testimonials';
-import Contact from './components/Contact/Contact';
-import Footer from './components/Footer/Footer';
+import About from './components/About';
+import Services from './components/Services';
+import CarList from './components/CarList';
+import Testimonials from './components/Testimonials';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 import 'aos/dist/aos.css';
 import './App.css'
 
